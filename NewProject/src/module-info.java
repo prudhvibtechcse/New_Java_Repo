@@ -4,5 +4,5 @@
 /**
  * 
  */
-module GitProject {
+module NewProject {
 }
